@@ -1,0 +1,589 @@
+# Translation of Themes - Flixita in Russian
+# This file is distributed under the same license as the Themes - Flixita package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-05 16:42:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Flixita\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. Flixita is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme.  View the demo of Flixita Pro https://demo.themesdaddy.com/flixita-pro/"
+msgstr "Молниеносная скорость и отзывчивая тема. Flixita — это адаптивная и полностью настраиваемая тема для создания любых веб-сайтов. Расширенная панель администратора позволит вам настроить ее без каких-либо технических знаний. Эта легкая тема позволит вам создать практически любой тип веб-сайта, например блог, портфолио, актерскую и съемочную индустрию, модные новости, газету, мегажурнал, моду, темные темы, уход за домашними животными, дикую природу, деревянную архитектуру, сантехнику. подрядчик, малярные работы, дизайн интерьера, мебель для комнат, украшение дома, зеленая цветочная природа, строительство, корпоративное управление, несколько агентств, продвижение бизнеса, темный вариант, отрасли, салоны красоты и спа, фотография, тренажерный зал, фитнес, здоровье, медицина, стартапы, деловые агентства, юридические фирмы, путешествия, НПО, благотворительность, йога, образование детей, учебный институт, университетский портал, ресторан, мета-магазин, быстрые журналы, взаимный фонд, финансы, бухгалтерский учет, консалтинг, веб-сайт туристического агентства. Тема полностью совместима с популярными плагинами WordPress, такими как Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7. Mailchimp для WordPress, bbPress, Demo Importer, WPForms и других. Эта тема никогда не подведет ваш сайт WordPress."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Flixita"
+msgstr "Flixita"
+
+#: core/customizer/flixita-default-options.php:18
+msgid "Get in Touch"
+msgstr "Свяжитесь с нами"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:574
+msgid "Get started with %1$s"
+msgstr "Начните работу с %1$s"
+
+#: core/core.php:568
+msgid "Install and activate <strong>Daddy Plus</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Установите и активируйте плагин <strong>Daddy Plus</strong>, чтобы в полной мере воспользоваться всеми возможностями этой темы."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:564
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Добро пожаловать! Спасибо за выбор %1$s!"
+
+#: core/core.php:557
+msgid "Theme Screenshot"
+msgstr "Скриншот темы"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:22
+msgid "Share a Good Review"
+msgstr "Поделитесь хорошим обзором"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Premium Demo"
+msgstr "Демо-версия Premium"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Need Support ?"
+msgstr "Нужна поддержка ?"
+
+#: woocommerce/content-product.php:34
+msgid "Sale"
+msgstr "Скидка"
+
+#: woocommerce/cart/mini-cart.php:134 woocommerce/cart/mini-cart.php:266
+msgid "No products in the cart."
+msgstr "В корзине нет товаров."
+
+#: woocommerce/cart/mini-cart.php:112 woocommerce/cart/mini-cart.php:241
+msgid "Checkout"
+msgstr "Оплата"
+
+#: woocommerce/cart/mini-cart.php:71 woocommerce/cart/mini-cart.php:201
+msgid "Remove this item"
+msgstr "Удалить этот элемент"
+
+#: woocommerce/cart/mini-cart.php:46 woocommerce/cart/mini-cart.php:176
+msgid "Total:"
+msgstr "Всего:"
+
+#: template-parts/content.php:70
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-page.php:69 template-parts/content.php:65
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: template-parts/content-page.php:45 template-parts/content.php:41
+msgid "Comments"
+msgstr "Комментарии"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поможет поиск."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/author-details.php:36
+msgid "View All Post"
+msgstr "Посмотреть все записи"
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/author-details.php:26
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "Вы еще не ввели свою биографическую информацию. %1$sОтредактируйте свой профиль%2$s прямо сейчас."
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "Поиск для:"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "Конструктор страниц"
+
+#: header.php:132
+msgid "Header Close Menu"
+msgstr "Меню закрытия заголовка"
+
+#: header.php:123
+msgid "Menu Collaped"
+msgstr "Сложенное меню"
+
+#: header.php:86
+msgid "Search Popup Close"
+msgstr "Всплывающее окно поиска Закрыть"
+
+#: header.php:83
+msgid "Type To Search"
+msgstr "Введите для поиска"
+
+#: header.php:82
+msgid "Site Search"
+msgstr "Поиск по сайту"
+
+#: header.php:79
+msgid "Search Popup"
+msgstr "Всплывающий поиск"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "На всю ширину"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Главная страница"
+
+#: footer.php:7
+msgid "scrollingUp"
+msgstr "прокрутка вверх"
+
+#: core/theme-menu/class-bootstrap-navwalker.php:227
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: core/customizer/flixita-panels-and-sections.php:60
+msgid "Footer Setting"
+msgstr "Настройка подвала"
+
+#: core/customizer/flixita-panels-and-sections.php:52
+msgid "Blog Setting"
+msgstr "Настройки блога"
+
+#: core/customizer/flixita-panels-and-sections.php:43
+msgid "Top Scroller Setting"
+msgstr "Настройка верхней прокрутки"
+
+#: core/customizer/flixita-panels-and-sections.php:36
+msgid "Page Header Setting"
+msgstr "Настройка заголовка страницы"
+
+#: core/customizer/flixita-panels-and-sections.php:31
+msgid "General Options"
+msgstr "Общие настройки"
+
+#: core/customizer/flixita-panels-and-sections.php:24
+msgid "Menu Bar Setting"
+msgstr "Настройка строки меню"
+
+#: core/customizer/flixita-panels-and-sections.php:17
+msgid "Top Bar Setting"
+msgstr "Настройка верхней панели"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+#: core/customizer/flixita-panels-and-sections.php:11
+msgid "Upgrade to Pro"
+msgstr "Улучшить до Pro"
+
+#: core/customizer/flixita-general.php:288
+msgid "Copyright"
+msgstr "Авторские права"
+
+#: core/customizer/flixita-general.php:275
+msgid "Footer  Copyright"
+msgstr "Текст авторского права в подвале"
+
+#: core/customizer/flixita-general.php:259
+msgid "Content"
+msgstr "Содержание"
+
+#: core/customizer/flixita-general.php:258
+msgid "Meta"
+msgstr "Мета"
+
+#: core/customizer/flixita-general.php:254
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr "Перетаскивайте элементы записи, чтобы изменить порядок, а также скрывайте и показывайте элементы по мере необходимости, нажимая на значок глаза."
+
+#: core/customizer/flixita-general.php:243
+msgid "Blog/Archive/Single"
+msgstr "Блог/Архив/Отдельная запись"
+
+#: core/customizer/flixita-general.php:227
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: core/customizer/flixita-general.php:214
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+#: core/customizer/flixita-general.php:187
+msgid "Page Header"
+msgstr "Заголовок страницы"
+
+#: core/customizer/flixita-general.php:158
+msgid "Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: core/customizer/flixita-general.php:141
+msgid "Open in New Tab ?"
+msgstr "Открыть в новой вкладке?"
+
+#: core/customizer/flixita-general.php:115
+msgid "Label"
+msgstr "Название"
+
+#: core/customizer/flixita-general.php:88
+msgid "Button"
+msgstr "Кнопка"
+
+#: core/customizer/flixita-general.php:61 searchform.php:9 searchform.php:11
+msgid "Search"
+msgstr "Поиск"
+
+#: core/customizer/flixita-general.php:47
+#: core/customizer/flixita-general.php:74
+#: core/customizer/flixita-general.php:100
+#: core/customizer/flixita-general.php:169
+#: core/customizer/flixita-general.php:200
+msgid "Enable / Disable ?"
+msgstr "Включить / выключить ?"
+
+#: core/customizer/flixita-general.php:34
+msgid "Cart"
+msgstr "Корзина"
+
+#: core/customizer/flixita-general.php:18
+msgid "Logo Size"
+msgstr "Размер логотипа"
+
+#: core/customizer/flixita-default-options.php:29
+msgid "Copyright &copy; {current_year}. Created by %s. Powered by %s."
+msgstr "Авторские права &copy; {current_year}. Создано %s. Работает на %s."
+
+#: core/customizer/customizer.php:114
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: core/customizer/customizer.php:113
+msgid "Activate"
+msgstr "Активировать"
+
+#: core/customizer/customizer.php:112
+msgid "Install and Activate"
+msgstr "Установить и активировать"
+
+#: core/customizer/customizer.php:111
+msgid "Add More Features"
+msgstr "Добавить дополнительные функции"
+
+#: core/customizer/customizer.php:110
+msgid "Recommended Actions"
+msgstr "Рекомендуемые действия"
+
+#. translators: %s: plugin name
+#: core/customizer/customizer.php:104
+msgid "Recommended Plugin: If you want to show all the features and business sections of the FrontPage. please install and activate %s plugin"
+msgstr "Рекомендуемый плагин: Если вы хотите показать все функции и бизнес-разделы FrontPage. пожалуйста, установите и активируйте плагин %s"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:571
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Add Icon"
+msgstr "Добавить значок"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:566
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "Remove Icon"
+msgstr "Удалить значок"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:549
+msgid "Social icons"
+msgstr "Значки соцсетей"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:541
+msgid "None"
+msgstr "Пусто"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:536
+msgid "Image type"
+msgstr "Тип изображения"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "Center"
+msgstr "Центр"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:521
+msgid "Right"
+msgstr "Вправо"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:517
+msgid "Left"
+msgstr "Лево"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:513
+msgid "Align"
+msgstr "Выравнивание"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:505
+msgid "Upload Image"
+msgstr "Загрузить картинку"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:502
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Image"
+msgstr "Изображение"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:467
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Примечание: Некоторые иконки могут здесь не отображаться. Полный список иконок доступен тут: %1$s."
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:461
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "Icon"
+msgstr "Иконка"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:450
+msgid "Open link in new tab:"
+msgstr "Открыть ссылку в новой вкладке:"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:414
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:315
+msgid "Delete %s"
+msgstr "Удалить %s"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:278
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:384
+msgid "Button Text"
+msgstr "Текст на кнопке"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:269
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:394
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:563
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:585
+#: core/customizer/flixita-general.php:129
+msgid "Link"
+msgstr "Ссылку"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:261
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:376
+msgid "Button Label"
+msgstr "Этикетка кнопки"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:254
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:369
+msgid "Description"
+msgstr "Описание"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:246
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:360
+msgid "Subtitle 2"
+msgstr "Подзаголовок 2"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:238
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:352
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:230
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:344
+#: core/customizer/flixita-general.php:257
+msgid "Title"
+msgstr "Заголовок"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Customizer Repeater"
+msgstr "Настройки повторителя"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:29
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+#: core/customizer/customizer-notice/flixita-customizer-notify.php:114
+msgid "Activating"
+msgstr "Активация"
+
+#: core/core.php:522
+msgid "Page"
+msgstr "Страница"
+
+#: core/core.php:516
+msgid "Error 404 "
+msgstr "Ошибка 404 "
+
+#: core/core.php:511
+msgid "Articles posted by "
+msgstr "Статьи, опубликованные "
+
+#: core/core.php:504
+msgid "Posts tagged "
+msgstr "Записи с метками "
+
+#: core/core.php:389
+msgid "Search results for "
+msgstr "Поисковые результаты для "
+
+#: core/core.php:383
+msgid "Archive by category"
+msgstr "Архив по рубрикам"
+
+#: core/core.php:377
+msgid "Home"
+msgstr "Домашняя"
+
+#: core/core.php:359
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: core/core.php:357
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: core/core.php:355
+msgid "Tag Archives: %s"
+msgstr "Архив меток: %s"
+
+#: core/core.php:353
+msgid "Category Archives: %s"
+msgstr "Архив рубрик: %s"
+
+#: core/core.php:351
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+#: core/core.php:349
+msgid "Monthly Archives: %s"
+msgstr "Месячные архивы: %s"
+
+#: core/core.php:347
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы: %s"
+
+#: core/core.php:330 header.php:63 woocommerce/cart/mini-cart.php:39
+#: woocommerce/cart/mini-cart.php:122 woocommerce/cart/mini-cart.php:169
+#: woocommerce/cart/mini-cart.php:254
+msgid "0"
+msgstr "0"
+
+#: core/core.php:231
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Это область виджетов для виджета WooCommerce"
+
+#: core/core.php:229
+msgid "WooCommerce Sidebar"
+msgstr "Область виджетов WooCommerce"
+
+#: core/core.php:217
+msgid "The Footer Widget Area 4"
+msgstr "Область виджетов подвала 4"
+
+#: core/core.php:215
+msgid "Footer  Sidebar 4"
+msgstr "Боковая панель нижнего колонтитула 4"
+
+#: core/core.php:204
+msgid "The Footer Widget Area 3"
+msgstr "Область виджетов подвала 3"
+
+#: core/core.php:202
+msgid "Footer  Sidebar 3"
+msgstr "Область виджетов 3 подвала"
+
+#: core/core.php:191
+msgid "The Footer Widget Area 2"
+msgstr "Область виджетов подвала 2"
+
+#: core/core.php:189
+msgid "Footer  Sidebar 2"
+msgstr "Область виджетов 2 подвала"
+
+#: core/core.php:178
+msgid "The Footer Widget Area 1"
+msgstr "Область виджетов подвала 1"
+
+#: core/core.php:176
+msgid "Footer  Sidebar 1"
+msgstr "Область виджетов 1 подвала"
+
+#: core/core.php:163 core/core.php:165
+msgid "Main Sidebar Widget"
+msgstr "Виджет главной боковой панели"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:26 comments.php:40
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:25 comments.php:39
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:23 comments.php:37
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: archive.php:11 index.php:16 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-12"
+msgstr "col-lg-12"
+
+#: archive.php:11 index.php:16 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-8"
+msgstr "col-lg-8"
+
+#: 404.php:16
+msgid "Go Home Page"
+msgstr "Перейти на домашнюю страницу"
+
+#: 404.php:14
+msgid "The page you are looking is not available or has been removed."
+msgstr "Страница, которую вы ищете, недоступна или удалена."
+
+#: 404.php:13
+msgid "404 Page Not Found"
+msgstr "404 Страница не найдена"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/flixita-free/"
+msgstr "https://themesdaddy.com/themes/flixita-free/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"

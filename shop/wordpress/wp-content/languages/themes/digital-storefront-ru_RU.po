@@ -1,0 +1,637 @@
+# Translation of Themes - Digital Storefront in Russian
+# This file is distributed under the same license as the Themes - Digital Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-01 13:25:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Digital Storefront\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Digital Storefront"
+msgstr "Digital Storefront"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Digital Storefront gives you a choice to create your ecommerce store with ease. It is a brilliant theme suitable to create website for smart Home products and accessories, gadget store, Jewellery Market, fashion shop, ecomerce store, secrets santa, gift shops, watch store, decorative stores, AR/VR Headsets, home appliances shop, grocery store, Hardware, Electric Scooters, 3D Assets Stores, online support, and other such related websites. The theme is professional, clean, elegant and retina-ready in look. It is SEO-friendly theme which will help your website rank soon on major search engines like Google. It is translation-ready and supports RTL layout. It is based on bootstrap framework that makes it very handy to use. It is optimized for speed hence gives faster page load times. It is written with clean and secure codes. The responsive layout makes it mobile-friendly that looks perfect on any device. It is user-friendly too with many options for customization. It is compatible with major WordPress plugins like Contact form 7, WooCommerce etc. Also, it is well sanitized as per WordPress standards. With the social media option you can link all your social media pages. The testimonial section let’s your visitors comment on your work."
+msgstr "Digital Storefront предоставляет вам возможность с легкостью создать свой магазин электронной коммерции. Эта тема подходит для создания сайтов, посвященных товарам и аксессуарам для умного дома, магазину гаджетов, ювелирному рынку, магазину модной одежды, магазину электронных товаров, секретам Санты, магазинам подарков, магазину часов, магазинам декоративных изделий, AR/VR гарнитурам, магазину бытовой техники, продуктовому магазину, оборудованию, электроскутерам, магазинам 3D-активов, онлайн-поддержке и другим подобным сайтам. Тема имеет профессиональный, чистый, элегантный вид и поддерживает технологию retina-ready. Это SEO-дружественная тема, которая поможет вашему сайту быстро занять место в основных поисковых системах, таких как Google. Она готова к переводу и поддерживает RTL-верстку. Она основана на фреймворке bootstrap, что делает ее очень удобной в использовании. Он оптимизирован для повышения скорости работы и обеспечивает более быстрое время загрузки страниц. Он написан с использованием чистых и безопасных кодов. Отзывчивый макет делает его удобным для мобильных устройств, и он идеально смотрится на любом устройстве. Он удобен для пользователя и имеет множество возможностей для настройки. Он совместим с основными плагинами WordPress, такими как Contact form 7, WooCommerce и др. Кроме того, он хорошо очищен в соответствии со стандартами WordPress. С помощью опции социальных сетей вы можете связать все свои страницы в социальных сетях. Раздел \"Отзывы\" позволяет посетителям оставлять комментарии о вашей работе."
+
+#: inc/customizer.php:426
+msgid "Product per page"
+msgstr "Товар на страницу"
+
+#: inc/customizer.php:411
+msgid "Product per row"
+msgstr "Товар на строку"
+
+#: inc/customizer.php:975
+msgid "Enable Disable About"
+msgstr "О Нас вкл/откл"
+
+#: functions.php:154
+msgid "Footer Column 1"
+msgstr "Столбец 1 подвала"
+
+#: functions.php:164
+msgid "Footer Column 2"
+msgstr "Столбец 2 подвала"
+
+#: functions.php:174
+msgid "Footer Column 3"
+msgstr "Столбец 3 подвала"
+
+#: inc/customizer.php:151 inc/customizer.php:198 inc/customizer.php:226
+#: inc/customizer.php:553 inc/customizer.php:702 inc/customizer.php:907
+#: inc/customizer.php:960 inc/customizer.php:998 inc/customizer.php:1134
+#: inc/customizer.php:1363 inc/customizer.php:1403
+msgid "Customizer Options"
+msgstr "Настройка темы оформления"
+
+#: inc/customizer.php:22
+msgid "Buy Digital Storefront Pro"
+msgstr "Купить Digital Storefront Pro"
+
+#: inc/customizer.php:763
+msgid "Enable Disable Slider"
+msgstr "Слайдер вкл/откл"
+
+#: inc/customizer.php:99
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: inc/customizer.php:568
+msgid "Enable Social Icon"
+msgstr "Включить значки соцсетей"
+
+#: inc/customizer.php:774
+msgid "Enable Slider Loop"
+msgstr "Включить цикл слайд-шоу"
+
+#: inc/customizer.php:120
+msgid "Enable Disable Tagline"
+msgstr "Краткое описание вкл/откл"
+
+#: inc/customizer.php:109
+msgid "Enable Disable Title"
+msgstr "Заголовок вкл/откл"
+
+#: inc/customizer.php:335
+msgid "Show Theme Scroll To Top"
+msgstr "Показать тему прокрутить вверх"
+
+#: inc/customizer.php:584
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-facebook-f"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-facebook-f"
+
+#: inc/customizer.php:632
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-instagram"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-instagram"
+
+#: inc/customizer.php:656
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-linkedin-in"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-linkedin-in"
+
+#: inc/customizer.php:680
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-pinterest-p"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-pinterest-p"
+
+#: inc/customizer.php:608
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-twitter"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-twitter"
+
+#: inc/customizer.php:579
+msgid "Add Facebook Icon"
+msgstr "Добавить значок Facebook"
+
+#: inc/customizer.php:603
+msgid "Add Twitter Icon"
+msgstr "Добавить значок Twitter"
+
+#: inc/customizer.php:627
+msgid "Add Intagram Icon"
+msgstr "Добавить значок Intagram"
+
+#: inc/customizer.php:651
+msgid "Add Linkedin Icon"
+msgstr "Добавить значок Linkedin"
+
+#: inc/customizer.php:675
+msgid "Add Pinterest Icon"
+msgstr "Добавить значок Pinterest"
+
+#: inc/customizer.php:14
+msgid "Digital Storefront Pro"
+msgstr "Digital Storefront Pro"
+
+#: inc/customizer.php:923
+msgid "Show Services"
+msgstr "Показывать услуги"
+
+#: functions.php:488
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: functions.php:555
+msgid "Basic Version"
+msgstr "Базовая версия"
+
+#: functions.php:545
+msgid "Checkout Documentation"
+msgstr "Документация по оформлению заказа"
+
+#: functions.php:512
+msgid "Checkout Premium"
+msgstr "Оформить заказ Премиум"
+
+#: functions.php:503 functions.php:506
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: functions.php:566
+msgid "Custom Navigation Logo Or Text"
+msgstr "Пользовательский логотип или текст навигации"
+
+#: functions.php:613
+msgid "Custom Text On Header Image"
+msgstr "Пользовательский текст на изображении заголовка"
+
+#: functions.php:663
+msgid "Customize Background Color"
+msgstr "Настройка цвета фона"
+
+#: functions.php:648
+msgid "Customize Blog Feed Color"
+msgstr "Настройка цвета фида блога"
+
+#: functions.php:653
+msgid "Customize Footer Color"
+msgstr "Настройка цвета подвала"
+
+#: functions.php:638
+msgid "Customize Navigation Color"
+msgstr "Настройка цвета навигации"
+
+#: functions.php:643
+msgid "Customize Post/Page Color"
+msgstr "Настройка цвета записи/страницы"
+
+#: functions.php:658
+msgid "Customize Sidebar Color"
+msgstr "Настройка цвета боковой панели"
+
+#: functions.php:633
+msgid "Customize Upper Widgets Colors"
+msgstr "Настройка цветов верхних виджетов"
+
+#: functions.php:593
+msgid "Easy Google Fonts"
+msgstr "Easy Google Fonts"
+
+#: functions.php:542
+msgid "Free Vs Premium"
+msgstr "Free против Premium"
+
+#: functions.php:618
+msgid "Full Width (Hide Sidebar)"
+msgstr "Полная ширина (скрыть боковую панель)"
+
+#: functions.php:582
+msgid "Fully SEO Optimized"
+msgstr "Полностью SEO-оптимизированная"
+
+#: functions.php:515
+msgid "Get Premium"
+msgstr "Получить Премиум"
+
+#: functions.php:676
+msgid "Go Premium"
+msgstr "Перейти на Премиум"
+
+#: functions.php:561
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: functions.php:571
+msgid "Hide Logo Text"
+msgstr "Скрыть текст логотипа"
+
+#: functions.php:668
+msgid "Importable Demo Content\t"
+msgstr "Импортируемый демо-контент"
+
+#: functions.php:603
+msgid "Only Show Header Image On Front Page"
+msgstr "Показывать только изображение заголовка на главной странице"
+
+#: functions.php:623
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Показывать только верхние виджеты на главной странице"
+
+#: functions.php:513
+msgid "Our premium theme comes with extended features like demo content import , responsive layouts etc."
+msgstr "Наша тема премиум-класса поставляется с расширенными функциями, такими как импорт демо-контента, адаптивные макеты и т. д."
+
+#: functions.php:598
+msgid "Pagespeed Plugin"
+msgstr "Плагин скорости страницы"
+
+#: functions.php:577
+msgid "Premium Support"
+msgstr "Премиум поддержка"
+
+#: functions.php:556
+msgid "Premium Version"
+msgstr "Премиум версия"
+
+#: functions.php:587
+msgid "Recent Posts Widget"
+msgstr "Виджет последних записей"
+
+#: functions.php:628
+msgid "Replace Copyright Text"
+msgstr "Заменить текст авторского права"
+
+#: functions.php:521 functions.php:524
+msgid "Review"
+msgstr "Отзыв"
+
+#: functions.php:608
+msgid "Show Header Everywhere"
+msgstr "Показывать заголовок везде"
+
+#: functions.php:554
+msgid "Theme Feature"
+msgstr "Функции темы"
+
+#: functions.php:548
+msgid "View Theme Demo"
+msgstr "Посмотреть демонстрацию темы"
+
+#: functions.php:498
+msgid "Welcome To "
+msgstr "Добро пожаловать в "
+
+#: functions.php:465
+msgid "https://wordpress.org/support/theme/digital-storefront/"
+msgstr "https://wordpress.org/support/theme/digital-storefront/"
+
+#: functions.php:468
+msgid "https://wordpress.org/support/theme/digital-storefront/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/digital-storefront/reviews/#new-post"
+
+#: functions.php:504
+msgid "Thank you for trying Digital Storefront , feel free to contact us for any support regarding our theme."
+msgstr "Спасибо за попытку использования Digital Storefront, не стесняйтесь обращаться к нам за любой поддержкой, касающейся нашей темы."
+
+#: functions.php:522
+msgid "If You love Digital Storefront theme then we would appreciate your review about our theme."
+msgstr "Если вам нравится тема Digital Storefront, мы будем признательны за ваш отзыв о нашей теме."
+
+#: inc/customizer.php:233
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/customizer.php:282
+msgid "Preloader Background Color"
+msgstr "Цвет фона анимации загрузки"
+
+#: inc/customizer.php:292
+msgid "Preloader First Dot Color"
+msgstr "Цвет первой точки загрузки"
+
+#: inc/customizer.php:303
+msgid "Preloader Second Dot Color"
+msgstr "Цвет второй точки загрузки"
+
+#: inc/customizer.php:257
+msgid "Show Theme Preloader"
+msgstr "Показать анимацию загрузки темы"
+
+#: inc/customizer.php:325
+msgid "Show Sticky Header"
+msgstr "Показать прикрепленный заголовок"
+
+#: inc/customizer.php:158
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: inc/customizer.php:166
+msgid "Color Option"
+msgstr "Вариант цвета"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Шаблон во всю ширину"
+
+#. Template Name of the theme
+msgid "Left sidebar"
+msgstr "Боковая панель слева"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:27 inc/template-tags.php:33
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Опубликовано</span> %s"
+
+#: functions.php:126
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:34
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-tags.php:176 inc/template-tags.php:196
+msgid "Edit"
+msgstr "Изменить"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer.php:1005
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:35
+msgid "GET PREMIUM"
+msgstr "ПОЛУЧИТЬ ПРЕМИУМ"
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Шаблон главной страницы"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже мы не можем найти то, что вы просите. Попробуйте воспользоваться поиском."
+
+#. translators: %s: post title
+#: inc/template-tags.php:42
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к  %s</span>"
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: template-parts/content-audio.php:50 template-parts/content-gallery.php:38
+#: template-parts/content-image.php:36 template-parts/content-page.php:31
+#: template-parts/content-single.php:45 template-parts/content-video.php:49
+#: template-parts/content.php:36
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/template-tags.php:175
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:62
+msgid "Primary"
+msgstr "Основной"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:80
+msgid "Proudly powered by %s"
+msgstr "На платформе %s"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь!</a>."
+
+#: inc/customizer.php:1097
+msgid "Replace the footer text"
+msgstr "Заменить текст подвала"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/customizer.php:808
+msgid "Select Slide Page"
+msgstr "Выберите страницу слайдера"
+
+#: template-parts/topheader/mainheader.php:58
+msgid "shopping cart"
+msgstr "корзина для покупок"
+
+#: functions.php:124
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: header.php:43
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова.."
+
+#: footer.php:105
+msgid "TOP"
+msgstr "ВЕРХ"
+
+#: template-parts/navigation/navigation-top.php:14
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: page-template/home-template.php:108
+msgid "VIEW MORE"
+msgstr "ПОКАЗАТЬ ЕЩЕ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: inc/template-tags.php:201
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: inc/customizer.php:592
+msgid "Facebook Link"
+msgstr "Ссылка Facebook"
+
+#: inc/customizer.php:640
+msgid "Intagram Link"
+msgstr "Ссылка Intagram"
+
+#: inc/customizer.php:664
+msgid "Linkedin Link"
+msgstr "Ссылка Linkedin"
+
+#: inc/customizer.php:689
+msgid "Pinterest Link"
+msgstr "Ссылка Pinterest"
+
+#: inc/customizer.php:754
+msgid "Slider Option"
+msgstr "Вариант слайдера"
+
+#: inc/customizer.php:560
+msgid "Social Links"
+msgstr "Ссылки соцсетей"
+
+#: inc/customizer.php:616
+msgid "Twitter Link"
+msgstr "Ссылка Twitter"
+
+#. translators: 1: Storefront WordPress Theme,
+#: footer.php:88
+msgid " %1$s"
+msgstr " %1$s"
+
+#. translators: 1: TheMagnifico.
+#: footer.php:93
+msgid "by %1$s."
+msgstr "от %1$s."
+
+#: template-parts/topheader/mainheader.php:52
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: template-parts/topheader/mainheader.php:55
+msgid "Login / Register"
+msgstr "Вход / Регистрация"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: functions.php:63
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: inc/customizer.php:205
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer.php:755
+msgid "Here you have to add 3 different post categories in below dropdown. Image Dimension ( 500px x 500px )"
+msgstr "Здесь вы должны добавить 3 разные рубрики записи в раскрывающемся списке ниже. Размер изображения (500 x 500 px)"
+
+#. translators: 1: number of Post
+#: inc/template-tags.php:58
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. translators: %s: Tagged
+#: inc/template-tags.php:65
+msgid "Tagged %1$s"
+msgstr "Отмечено %1$s"
+
+#: inc/customizer.php:948
+msgid "Select Category to display Services"
+msgstr "Выберите рубрику для отображения услуг"
+
+#: inc/customizer.php:213
+msgid "Add Offer Text"
+msgstr "Добавить текст предложения"
+
+#: inc/customizer.php:914
+msgid "Services Settings"
+msgstr "Настройки услуг"
+
+#: inc/customizer.php:949
+msgid "Image Size (50 x 50)"
+msgstr "Размер изображения (50x50)"
+
+#: inc/customizer.php:967
+msgid "About Settings"
+msgstr "Настройки О нас"
+
+#: inc/customizer.php:986
+msgid "Select About Page"
+msgstr "Выбрать страницу О нас"
+
+#: template-parts/topheader/topheader.php:21
+msgid "Connect with us -"
+msgstr "Связаться с нами -"
+
+#: footer.php:77
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"

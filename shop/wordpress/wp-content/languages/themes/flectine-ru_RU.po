@@ -1,0 +1,90 @@
+# Translation of Themes - Flectine in Russian
+# This file is distributed under the same license as the Themes - Flectine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-01-28 16:48:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Flectine\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. Flectine is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme. View the demo of Flectine Pro https://demo.themesdaddy.com/flectine-pro/"
+msgstr "Молниеносная скорость и отзывчивая тема. Flectine — это адаптивная и полностью настраиваемая тема для создания любых веб-сайтов. Расширенная панель администратора позволит вам настроить ее без каких-либо технических знаний. Эта легкая тема позволит вам создать практически любой тип веб-сайта, например, блог, портфолио, актерскую и съемочную индустрию, модные новости, газету, мегажурнал, моду, темные темы, уход за домашними животными, дикую природу, деревянную архитектуру, сантехнику. подрядчик, малярные работы, дизайн интерьера, мебель для комнат, украшение дома, зеленая цветочная природа, строительство, корпоративное управление, несколько агентств, продвижение бизнеса, темный вариант, отрасли, салоны красоты и спа, фотография, тренажерный зал, фитнес, здоровье, медицина, стартапы, деловые агентства, юридические фирмы, путешествия, НПО, благотворительность, йога, образование детей, учебный институт, университетский портал, ресторан, мета-магазин, быстрые журналы, взаимный фонд, финансы, бухгалтерский учет, консалтинг, веб-сайт туристического агентства. Тема полностью совместима с популярными плагинами WordPress, такими как Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7. Mailchimp для WordPress, bbPress, Demo Importer, WPForms и других. Эта тема никогда не подведет ваш сайт WordPress. Посмотреть демо-версию Flectine Pro https://demo.themesdaddy.com/flectine-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Flectine"
+msgstr "Flectine"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+msgid "Share a Good Review"
+msgstr "Поделитесь хорошим отзывом"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Premium Demo"
+msgstr "Премиум-демо"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:14
+msgid "Need Support ?"
+msgstr "Нужна поддержка?"
+
+#: theme-header.php:109
+msgid "Header Close Menu"
+msgstr "Заголовок Закрыть меню"
+
+#: theme-header.php:100
+msgid "Menu Collaped"
+msgstr "Меню свернуто"
+
+#: theme-header.php:63
+msgid "Search Popup Close"
+msgstr "Закрытие всплывающего поиска"
+
+#: theme-header.php:60
+msgid "Type To Search"
+msgstr "Введите для поиска"
+
+#: theme-header.php:59
+msgid "Site Search"
+msgstr "Поиск по сайту"
+
+#: theme-header.php:56
+msgid "Search Popup"
+msgstr "Всплывающий поиск"
+
+#: theme-header.php:40
+msgid "0"
+msgstr "0"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/flectine-free/"
+msgstr "https://themesdaddy.com/themes/flectine-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"

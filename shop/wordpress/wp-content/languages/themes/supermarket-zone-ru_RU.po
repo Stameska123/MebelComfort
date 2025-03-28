@@ -1,0 +1,153 @@
+# Translation of Themes - Supermarket Zone in Russian
+# This file is distributed under the same license as the Themes - Supermarket Zone package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-01 13:30:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Supermarket Zone\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Supermarket Zone"
+msgstr "Supermarket Zone"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Supermarket zone is a multipurpose and responsive that is ideal to design all kinds of Ecommerce websites. You can develop an online store for grocery store, food delivery, electronics store, multivendor, clothing, luxury brands, fashion shop, agriculture, jewelry, retail store, grocery, farm shop, furniture store, cosmetics and skincare products, sports and outdoors, beauty and health, home appliances and more. The theme utilizes bootstrap framework and offers a very user-friendly environment to work on. You can customize it freely using so many features and options for customization.  It offers full support for WooCommerce plugin aiding you to create a full-fledge WooCommerce store and allowing buyers to do safe transactions. It uses 100% secure and clean codes making your site free from errors and bugs. With the social media option you can display your social existence which helps your customers to trust and know your popularity. The responsive design is mobile-friendly to adjust perfectly in all devices screen sizes. The theme comes SEO optimized to aid your site with search engine ranking. It shows compatibility to various WordPress plugins like Contact form 7, WooCommerce, Mailchimp, Elementor. Your site will get ready in minutes using the drag and drop builder. and Faster page load times add to the core web vitals of your site."
+msgstr "Supermarket zone - это многоцелевой и отзывчивый продукт, который идеально подходит для разработки всех видов сайтов электронной коммерции. Вы можете разработать интернет-магазин для бакалеи, доставки еды, магазина электроники, мультивендора, одежды, люксовых брендов, магазина модной одежды, сельского хозяйства, ювелирных изделий, розничного магазина, бакалеи, фермерского магазина, мебельного магазина, косметики и средств по уходу за кожей, спорта и активного отдыха, красоты и здоровья, бытовой техники и многого другого. Тема использует фреймворк bootstrap и предлагает очень удобную среду для работы. Вы можете свободно настраивать ее, используя множество функций и опций для настройки.  Тема полностью поддерживает плагин WooCommerce, позволяя создать полноценный магазин WooCommerce и обеспечить безопасные транзакции для покупателей. Используется 100% безопасный и чистый код, что исключает ошибки и сбои в работе сайта. Опция социальных сетей позволяет отображать информацию о вашем социальном статусе, что помогает покупателям доверять вам и узнавать о вашей популярности. Отзывчивый дизайн, дружественный к мобильным устройствам, прекрасно адаптируется к размерам экранов всех устройств. Тема оптимизирована с точки зрения SEO, что поможет вашему сайту подняться в рейтинге поисковых систем. Она совместима с различными плагинами WordPress, такими как Contact form 7, WooCommerce, Mailchimp, Elementor. Ваш сайт будет готов за считанные минуты с помощью конструктора drag and drop builder, а ускоренное время загрузки страниц повысит основные показатели вашего сайта."
+
+#: functions.php:152
+msgid "Customizer Options"
+msgstr "Настройка темы оформления"
+
+#: functions.php:18
+msgid "Buy Supermarket Pro"
+msgstr "Купить Supermarket Pro"
+
+#: functions.php:74
+msgid "Enable Disable Product"
+msgstr "Товар вкл/откл"
+
+#: functions.php:255
+msgid "https://wordpress.org/support/theme/supermarket-zone"
+msgstr "https://wordpress.org/support/theme/supermarket-zone"
+
+#: functions.php:258
+msgid "https://wordpress.org/support/theme/supermarket-zone/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/supermarket-zone/reviews/#new-post"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: functions.php:239
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Шаблон главной страницы"
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: functions.php:237
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ВЕРХ"
+
+#: page-template/home-template.php:147
+msgid "VIEW MORE"
+msgstr "ПОКАЗАТЬ ЕЩЕ"
+
+#. translators: 1: Theme author.
+#: footer.php:92
+msgid "by %1$s."
+msgstr "от %1$s."
+
+#. translators: 1: Theme name,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#: functions.php:141
+msgid "Select Product Category"
+msgstr "Выберите категорию товара"
+
+#: functions.php:66
+msgid "Here you have to select product category which will display perticular new arrival product in the home page."
+msgstr "Здесь вы должны выбрать категорию товара, которая будет отображать конкретный новый товар на главной странице."
+
+#: functions.php:65
+msgid "New Arrival Product"
+msgstr "Новое поступление товара"
+
+#: functions.php:107
+msgid "No of Product"
+msgstr "Номер товара"
+
+#: functions.php:14
+msgid "Supermarket Pro"
+msgstr "Supermarket Pro"
+
+#: functions.php:96
+msgid "Text"
+msgstr "Текст"
+
+#: functions.php:85
+msgid "Title"
+msgstr "Заголовок"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "На платформе %s"
+
+#: footer.php:76
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
